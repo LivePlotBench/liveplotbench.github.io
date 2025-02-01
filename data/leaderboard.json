@@ -1,0 +1,26 @@
+{
+  "models": [
+    {
+      "model_repr": "Model A"
+    },
+    {
+      "model_repr": "Model B" 
+    }
+  ],
+  "performances": [
+    {
+      "model": "Model A",
+      "date": "2023-06-01",
+      "runnability": 0.95,
+      "correctness": 0.88,
+      "aesthetics": 0.92
+    },
+    {
+      "model": "Model B", 
+      "date": "2023-06-01",
+      "runnability": 0.90,
+      "correctness": 0.85,
+      "aesthetics": 0.89
+    }
+  ]
+}
